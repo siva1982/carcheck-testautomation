@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Nov 11 14:52:20 GMT 2024","Mon Nov 11 14:52:55 GMT 2024","35781","","Verifying the vehicle registration","","Validate the car registrations with input and output files","","Validate the car registrations with input and output files",""

@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Verifying the vehicle registration",
+    "children" : [ {
+      "name" : "Validate the car registrations with input and output files",
+      "uid" : "9241d126874b63c2",
+      "parentUid" : "63a4cb92411f978e6e58e8358e69c833",
+      "status" : "passed",
+      "time" : {
+        "start" : 1731336740007,
+        "stop" : 1731336775788,
+        "duration" : 35781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "63a4cb92411f978e6e58e8358e69c833"
+  } ]
+}

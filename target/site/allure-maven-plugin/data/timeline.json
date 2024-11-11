@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBookPro",
+    "children" : [ {
+      "name" : "66743@MacBookPro.main(1)",
+      "children" : [ {
+        "name" : "Validate the car registrations with input and output files",
+        "uid" : "9241d126874b63c2",
+        "parentUid" : "5f9c929582e04fee6e8b3ae172715406",
+        "status" : "passed",
+        "time" : {
+          "start" : 1731336740007,
+          "stop" : 1731336775788,
+          "duration" : 35781
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5f9c929582e04fee6e8b3ae172715406"
+    } ],
+    "uid" : "808d1143abcc93f1df468495717545e5"
+  } ]
+}

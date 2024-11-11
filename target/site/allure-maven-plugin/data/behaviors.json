@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Verifying the vehicle registration",
+    "children" : [ {
+      "name" : "Validate the car registrations with input and output files",
+      "children" : [ {
+        "name" : "Validate the car registrations with input and output files",
+        "uid" : "9241d126874b63c2",
+        "parentUid" : "d62d049a5348352be0b54c316574c6d8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1731336740007,
+          "stop" : 1731336775788,
+          "duration" : 35781
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d62d049a5348352be0b54c316574c6d8"
+    } ],
+    "uid" : "034f1b649d074441b336809473bdb448"
+  } ]
+}
